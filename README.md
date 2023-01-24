@@ -1,0 +1,3 @@
+# pin
+/bittlor-xir
+ /stunorol
